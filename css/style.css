@@ -1,0 +1,31 @@
+body{
+    margin:0;
+    padding:0;
+}
+#second{
+    color:black;
+}
+ul {
+    position:fixed;
+    top: 0;
+    right: 0;
+    list-style: none;
+    padding:20px;
+    padding-right: 30px;
+    margin: 20px;
+    color:green;
+}
+
+ul li{
+    display: inline-block;
+}
+
+#loginB{
+    background:#454d47;
+    border-radius:5px;
+    padding: 8px;
+}
+
+.navigation{
+
+}
